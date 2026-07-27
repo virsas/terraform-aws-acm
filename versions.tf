@@ -9,7 +9,3 @@ terraform {
     }
   }
 }
-
-provider "aws" {
-  alias = "master_provider"
-}
